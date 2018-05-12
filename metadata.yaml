@@ -1,0 +1,32 @@
+_repo: The-Beaver-Vol.-I-No.-4-January-1921_43622
+_version: 0.1.0
+contributor:
+  publisher_contributor:
+    agent_name: Hudson's Bay Company
+    aliases:
+    - Company, Hudson's Bay
+    - Governor and Company of Adventurers of England Trading into Hudson's Bay
+    - Hudson's Bay Fur Company
+    - Hudson Bay Company
+    - Compagnie de la Baie d'Hudson
+    gutenberg_agent_id: '2095'
+    url: http://www.gutenberg.org/2009/agents/2095
+covers:
+- cover_type: archival
+  image_path: 43622-h/images/cover_b.jpg
+description: ''
+gutenberg_issued: '2013-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43622'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada, Northern -- History -- Periodicals'
+- !lcc 'F1001'
+- !lcsh 'Canada -- History -- Periodicals'
+- !lcsh 'Hudson''s Bay Company -- Periodicals'
+title: The Beaver, Vol. 1, No. 04, January 1921
+url: http://www.gutenberg.org/ebooks/43622
